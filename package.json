@@ -1,6 +1,6 @@
 {
   "name": "react-native-base-switch",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Customizable style react-native switch, same style on ios and android",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:tiempham/react-native-base-switch.git"
+    "url": "git@github.com:matao_ct/react-native-base-switch.git"
   },
   "keywords": [
     "react-native",
@@ -19,15 +19,15 @@
     "material"
   ],
   "author": {
-    "name": "tiempham",
-    "email": "tiemdesigner@gmail.com",
-    "url": "https://github.com/tiempham"
+    "name": "matao_ct",
+    "email": "matao.ct@gmail.com",
+    "url": "https://github.com/matao_ct"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiempham/react-native-base-switch/issues/new"
+    "url": "https://github.com/matao_ct/react-native-base-switch/issues/new"
   },
-  "homepage": "hhttps://github.com/tiempham/react-native-base-switch",
+  "homepage": "hhttps://github.com/matao_ct/react-native-base-switch",
   "peerDependencies": {
     "react-native": ">= 0.29"
   }

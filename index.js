@@ -244,4 +244,5 @@ Switch.defaultProps = {
   },
 };
 
-export { Switch };
+// export { Switch };
+export default Switch;
